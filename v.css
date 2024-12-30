@@ -15,8 +15,8 @@ body {
     min-height: 100vh;
     background-image: url(Untitled.jpeg);
     background-size: contain;
-    background-attachment: fixed;
-    
+/*     background-attachment: fixed; */
+    background-attachment: absolute;
 }
 
 .card {
